@@ -14,7 +14,7 @@ Manage your daily tasks and appointments with ease using the **Work Day Schedule
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/work-day-scheduler.git
+   git clone git@github.com:JCovi/workday-calendar.git
 
 ## Acknowledgments
 
