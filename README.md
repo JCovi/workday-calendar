@@ -24,7 +24,7 @@ Manage your daily tasks and appointments with ease using the **Work Day Schedule
 
 ## Deployment
 
-- **Deployed Application**: [Work Day Scheduler App](https://your-deployment-url.com)
+- **Deployed Application**: [Work Day Scheduler App](https://jcovi.github.io/workday-calendar/)
 - **GitHub Repository**: [Work Day Scheduler Repository](https://github.com/JCovi/workday-calendar)
 
 ## Contributing
