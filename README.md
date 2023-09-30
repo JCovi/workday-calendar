@@ -1,41 +1,41 @@
-Work Day Scheduler
-Manage your daily tasks and appointments with ease using the Work Day Scheduler. This web application offers a clean and intuitive interface for organizing your workday efficiently.
+# Work Day Scheduler
 
-Features
-Real-time Date and Time Display: Always know the current date and time.
-Color-Coded Time Blocks: Easily identify past, present, and future events.
-Task Management: Add, edit, and remove task descriptions.
-Local Storage: Your schedule is saved locally for convenience.
-Getting Started
-Clone the repository to your local machine:
+Manage your daily tasks and appointments with ease using the **Work Day Scheduler**. This web application offers a clean and intuitive interface for organizing your workday efficiently.
 
-bash
-Copy code
-git clone https://github.com/your-username/work-day-scheduler.git
-Open index.html in your web browser.
+## Features
 
-Usage
-Open the Work Day Scheduler.
+- **Real-time Date and Time Display**: Always know the current date and time.
+- **Color-Coded Time Blocks**: Easily identify past, present, and future events.
+- **Task Management**: Add, edit, and remove task descriptions.
+- **Local Storage**: Your schedule is saved locally for convenience.
 
-Enter your tasks in the time blocks and click "Save."
+## Getting Started
 
-Tasks are color-coded for past, present, and future events.
+1. Clone the repository to your local machine:
 
-Your schedule is saved in local storage for later use.
+   ```bash
+   git clone https://github.com/your-username/work-day-scheduler.git
 
-Acknowledgments
-Special thanks to Bootstrap for the front-end framework.
-Font Awesome for icons.
-Day.js for date and time functionality.
-Deployment
-Deployed Application: Work Day Scheduler App
-GitHub Repository: Work Day Scheduler Repository
-Contributing
+## Acknowledgments
+
+- Special thanks to [Bootstrap](https://getbootstrap.com/) for the front-end framework.
+- [Font Awesome](https://fontawesome.com/) for icons.
+- [Day.js](https://day.js.org/) for date and time functionality.
+
+## Deployment
+
+- **Deployed Application**: [Work Day Scheduler App](https://your-deployment-url.com)
+- **GitHub Repository**: [Work Day Scheduler Repository](https://github.com/JCovi/workday-calendar)
+
+## Contributing
+
 Contributions are welcome! Follow these steps:
 
-Fork the repository.
-Create a new branch.
-Make changes and test them.
-Create a pull request.
-License
-This project is licensed under the MIT License.
+1. Fork the repository.
+2. Create a new branch.
+3. Make changes and test them.
+4. Create a pull request.
+
+## License
+
+This project is licensed under the MIT License. 
